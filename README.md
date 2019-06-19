@@ -5,7 +5,24 @@
 
 ### For detail article visit [C#.Net Import/Export CSV Library](#) at [Asma's Blog](https://www.asmak9.com/)
 
-# Usage Example
+# Basic Usage
+
+```C#
+
+// Initialization.
+bool hasHeader = true;
+string importFilePath = "C:\\import.csv";
+string exportFilePath = "C:\\export.csv";
+
+// Impot CSV file.
+DataTable data = CSVLibraryAK.Import(importFilePath, hasHeader);
+
+// Export CSV file.
+CSVLibraryAK.Export(exportFilePath, data);
+
+```
+
+# Examples
 
 1. [ASP.NET MVC Application](#)
 2. [WPF Application](#)
