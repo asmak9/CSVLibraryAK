@@ -3,7 +3,7 @@
 
 ### Nuget Installation Version 1.0.0: https://www.nuget.org/packages/CSVLibraryAK/
 
-### For detail article visit [C#.Net Import/Export CSV Library](#) at [Asma's Blog](https://www.asmak9.com/)
+### For detail article visit [C#.Net Import/Export CSV Library](https://bit.ly/2XYnh8g) at [Asma's Blog](https://www.asmak9.com/)
 
 # Basic Usage
 
