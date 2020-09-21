@@ -6,7 +6,6 @@
 ### Copyright (c) [Asma's Blog](https://www.asmak9.com/)
 
 <br/>
-<br/>
 
 # Examples
 
