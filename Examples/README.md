@@ -5,8 +5,6 @@
 
 ### Copyright (c) [Asma's Blog](https://www.asmak9.com/)
 
-<br/>
-
 # Examples
 
 1. [Console Application](https://bit.ly/2XYnh8g)
