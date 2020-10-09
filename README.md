@@ -3,7 +3,9 @@
 
 ### Nuget Installation Version 1.1.4: https://www.nuget.org/packages/CSVLibraryAK/
 
-### For detail article visit [C#.Net Import/Export CSV Library](#) at [Asma's Blog](https://www.asmak9.com/)
+### .NET Core Supported Nuget Library: https://www.nuget.org/packages/CSVLibraryAK.Core/
+
+### Copyright (c) [Asma's Blog](https://www.asmak9.com/)
 
 # Basic Usage
 
@@ -26,8 +28,9 @@ CSVLibraryAK.Export(exportFilePath, data);
 
 # Examples
 
-1. [ASP.NET MVC Application](#)
-2. [WPF Application](#)
+1. [Console Application](https://bit.ly/2XYnh8g)
+2. [ASP.NET MVC Application](https://bit.ly/2XVaXcb)
+3. [WPF Application](https://bit.ly/30tyG0M)
 
 <br/>
 <br/>
