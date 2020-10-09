@@ -3,6 +3,8 @@
 
 ### Nuget Installation Version 1.1.4: https://www.nuget.org/packages/CSVLibraryAK/
 
+### .NET Core Supported Nuget Library: https://www.nuget.org/packages/CSVLibraryAK.Core/
+
 ### Copyright (c) [Asma's Blog](https://www.asmak9.com/)
 
 # Examples
